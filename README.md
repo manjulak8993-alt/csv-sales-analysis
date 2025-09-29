@@ -35,6 +35,6 @@ This project analyzes sales data from a CSV file using Python and Pandas. It pro
           sales_summary.plot(kind="bar")
 
 # Outcome
-Aggregated insights from sales data
-Visual representation of trends and patterns
-Understanding of basic data analysis using Python
+*Aggregated insights from sales data
+*Visual representation of trends and patterns
+*Understanding of basic data analysis using Python
